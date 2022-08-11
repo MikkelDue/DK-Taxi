@@ -1,0 +1,140 @@
+2022-08-10T12:05:31+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T16:48:45+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T17:45:43+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T17:45:50+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T17:49:04+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T18:30:09+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T19:10:36+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T19:15:28+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T19:56:33+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T20:02:16+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T20:40:56+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T22:35:36+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T22:40:35+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
+2022-08-10T23:08:06+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php:2926
+Stack trace:
+#0 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/plugins/auxin-elements/public/includes/frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(307): auxels_get_refreshed_fragments('')
+#2 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown in /customers/f/6/8/mikkelbjoernsholm.one/httpd.www/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2926
+
